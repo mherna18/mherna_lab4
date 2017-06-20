@@ -18,7 +18,7 @@ table {
 }
 
 th, td {
-	border: 1px solid blue;
+	border: 2px solid blue;
 	text-align: center;
 	padding : .5em;
 	font-size: 20px;
