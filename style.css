@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	color: #7FFF00;
+	color: Chartreuse;
 }
 
 body {
@@ -22,7 +22,7 @@ th, td {
 	text-align: center;
 	padding : .5em;
 	font-size: 20px;
-	color: white;
+	color: Chartreuse;
 }
 
 th {
