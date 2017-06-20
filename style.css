@@ -30,6 +30,10 @@ th {
 	padding: 5px;
 }
 
+html {
+	color: white;
+}
+
 .image {
 	position: relative;
 	float: none;
